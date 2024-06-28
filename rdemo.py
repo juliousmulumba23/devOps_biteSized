@@ -1,6 +1,6 @@
 import requests
 
-r = requests.get('https://www.instagram.com/23rdlegend/')
+r = requests.get('https://www.instagram.com/KampalaInsta/')
 
 r.text
 
